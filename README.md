@@ -83,4 +83,4 @@ To set up the project, follow these steps:
 This project aims to provide valuable insights into cryptocurrency price movements and predictions, enabling investors to implement effective trading strategies and improve their decision-making processes.
 
 ## Author
-* Your Name [Reach me out on LinkedIn](https://www.linkedin.com/in/yourprofile/).
+* Arshman Khalid [Reach me out on LinkedIn](https://www.linkedin.com/in/arshmankhalid/).
