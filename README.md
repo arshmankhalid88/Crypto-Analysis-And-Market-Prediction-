@@ -59,8 +59,8 @@ To set up the project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/arshmankhalid88/Crypto-Analysis-And-Market-Prediction-.git
+   cd Crypto-Analysis-And-Market-Prediction-
    ```
 
 2. **Create a virtual environment** (optional but recommended):
@@ -83,4 +83,4 @@ To set up the project, follow these steps:
 This project aims to provide valuable insights into cryptocurrency price movements and predictions, enabling investors to implement effective trading strategies and improve their decision-making processes.
 
 ## Author
-* Arshman Khalid [Reach me out on LinkedIn](https://www.linkedin.com/in/arshmankhalid/).
+* Your Name [Reach me out on LinkedIn](https://www.linkedin.com/in/yourprofile/).
